@@ -1,6 +1,6 @@
-package com.example.demo.controller;
-
-import com.example.demo.service.FileService;
+package com.example.binarydecimalconversion.controller;
+//import com.example.demo.service.FileService;
+import com.example.binarydecimalconversion.service.FileService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

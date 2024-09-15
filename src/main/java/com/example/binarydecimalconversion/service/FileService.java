@@ -1,4 +1,4 @@
-package com.example.demo.service;
+package com.example.binarydecimalconversion.service;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
